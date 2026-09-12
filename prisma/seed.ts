@@ -12,7 +12,7 @@ async function main() {
     where: { slug: 'smileplus-main' },
     update: {},
     create: {
-      name: 'Smile+ Clinic',
+      name: 'Smile Plus Dental Clinic',
       slug: 'smileplus-main',
       email: 'hello@smileplus.example',
       phone: '+91 98765 43210',
@@ -102,7 +102,7 @@ async function main() {
     update: {},
     create: {
       clinicId: clinic.id,
-      name: 'Smile+ Reception',
+      name: 'Smile Plus Dental Clinic Reception',
       email: 'reception@smileplus.example',
       passwordHash: 'seed-password-hash',
       role: UserRole.RECEPTIONIST,

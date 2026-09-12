@@ -1,4 +1,4 @@
-# Smile+ Clinic SaaS Product Requirements
+# Smile Plus Dental Clinic Product Requirements
 
 ## Milestone 1 Scope
 
@@ -6,7 +6,7 @@ This milestone establishes the typed Next.js application foundation, styling con
 
 ## Product Direction
 
-Smile+ is a clinic SaaS platform for dental and skin/hair services. The planned product includes a public website, a staff web application, and a future Android client backed by shared API routes.
+Smile Plus Dental Clinic is a clinic SaaS platform for dental and skin/hair services. The planned product includes a public website, a staff web application, and a future Android client backed by shared API routes.
 
 ## Planned Roles
 

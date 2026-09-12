@@ -1,4 +1,4 @@
-# Smile+ Clinic SaaS API
+# Smile Plus Dental Clinic API
 
 ## Milestone 1 Contract
 

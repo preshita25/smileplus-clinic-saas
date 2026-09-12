@@ -1,6 +1,6 @@
-# Smile+ Clinic SaaS
+# Smile Plus Dental Clinic
 
-Milestone 1 foundation for the Smile+ clinic management platform. The system is planned as a single Next.js application serving the public website, staff dashboard, API routes, and future Android client.
+Milestone 1 foundation for the Smile Plus Dental Clinic management platform. The system is planned as a single Next.js application serving the public website, staff dashboard, API routes, and future Android client.
 
 ## Stack
 

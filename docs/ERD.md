@@ -1,4 +1,4 @@
-# Smile+ Clinic SaaS Data Model
+# Smile Plus Dental Clinic Data Model
 
 All models use a `cuid()` internal primary key. Records are tenant-scoped through `Clinic` and use timestamps for auditability. Patient records support soft deletion through `isActive` and `deletedAt` while preserving historical appointments, treatments, and invoices.
 
